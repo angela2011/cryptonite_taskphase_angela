@@ -26,6 +26,11 @@ Flag: pwn.college{AkKoFhjVBpU7a2IXfSJjI23YlN6.dZTOwUDL2ITO0czW}
 Flag: pwn.college{Y-urAJk35MY1XGTbuztnuPia6-z.dBTN4QDL2ITO0czW}
 # An epic filesystem quest 
 **Steps:** 
+
+finding files 
+pwn.college{k4jcpmeiREMkecv77p9c7X-U6gz.dJzM4QDL2ITO0czW}
+
+
 Flag: pwn.college{At_d_wKYffINAEkxQeTgNIyDex3.dljM4QDL2ITO0czW}
 # Making directories
 Flag: pwn.college{owOhgbo6UwkmtSo76vHBIAw1-VU.dFzM4QDL2ITO0czW}
