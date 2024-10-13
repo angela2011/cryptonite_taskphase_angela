@@ -22,4 +22,10 @@
 - Flag: pwn.college{8A_1lMGPJZpiVJJ24Y2HsOKEYp_.dhTN1QDL2ITO0czW}
 # Storing command output
 **Steps:** 
-- Flag: 
+- Flag:
+# Reading input
+**Steps:** 
+- Flag: pwn.college{kugAyo6wjXtEsL7R5xfB2V03lyu.dhzN1QDL2ITO0czW}
+# Reading files
+**Steps:** 
+- Flag: pwn.college{cGYJrYcWW5e0iTBHImj7rBzV_1-.dBjM4QDL2ITO0czW} 
