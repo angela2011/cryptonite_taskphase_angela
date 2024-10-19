@@ -38,3 +38,8 @@
 - Flag: pwn.college{IavCZiIlmxnaFHO2CadD7CIt9i5.dFjM5QDL2ITO0czW}
 # Writing to multiple programs
 **Steps:**
+- Process substitution is a method used to transfer the output of one command to the input of multiple other commands.
+- It basically treats the output of any command as a file, which is given a file name aka a named pipe.
+the >() operator signified proces substitution ie anything inside it is treated like a file.
+- With the tee command, we need to use the >(/challenge/the) to take the output of the initial program and use it as the stdin here.
+- 
