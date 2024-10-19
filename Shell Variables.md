@@ -25,7 +25,12 @@
 - Flag:
 # Reading input
 **Steps:** 
+- In this challenge, our job is to use read to set the PWN variable to the value COLLEGE.
+- To do this, we need to invoke 'read -p' and then enter value of var PWN which in this case is COLLEGE.
+- We obtain the flag by this method. 
 - Flag: pwn.college{kugAyo6wjXtEsL7R5xfB2V03lyu.dhzN1QDL2ITO0czW}
 # Reading files
 **Steps:** 
+- This challenge is done by redirecting the target file to the input variable of the read command.
+-In this case,we need to redirect the file /challenge/read_me to read PWN and then get the flag.
 - Flag: pwn.college{cGYJrYcWW5e0iTBHImj7rBzV_1-.dBjM4QDL2ITO0czW} 
